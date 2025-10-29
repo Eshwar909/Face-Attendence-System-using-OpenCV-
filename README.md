@@ -1,5 +1,5 @@
 # Face-Attendence-System-using-OpenCV-
-To run this project, you will need to install the **opencv-python**, **albumentations**, and **numpy** libraries. You can install all of them at once by running this command in your terminal: `pip install opencv-python albumentations numpy`.
+To run this project, you will need to install the **opencv-python**, **albumentations**, and **numpy** libraries. You can install all of them at once by running this command in your terminal: `pip install opencv-python albumentations numpy`.You will also have to download the onnx file named "face_recognition_sface_2021dec" and place this file in the same folder where you are writing other code.
 How to Use
 Follow these steps in order to run the system.
 
