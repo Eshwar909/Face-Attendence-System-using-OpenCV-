@@ -1,0 +1,8 @@
+open-cv python
+albumentations
+numpy
+os
+time
+warnings
+numpy
+uuid
